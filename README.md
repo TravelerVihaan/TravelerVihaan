@@ -1,7 +1,7 @@
 ## Vihaan
 ## Junior Software Engineer
 
-<a href="https://www.linkedin.com/in/lukaszbiel/"><img src="/img/linkedin.svg" height="90"></a>
+<a href="https://www.linkedin.com/in/lukaszbiel/"><img src="/img/linkedin.svg" height="90"></a>  <a href="https://stackoverflow.com/users/8115355/travelervihaan/"><img src="/img/stackoverflow.png" height="90"></a>
 
 ### Major skills:
 <img src="/img/java.svg" height="70">  <img src="/img/spring.svg" height="70">  <img src="/img/intellij.webp" height="70">  <img src="/img/eclipse.svg" height="70">  <img src="/img/git.svg" height="70">  <img src="/img/windows.svg" height="70">
