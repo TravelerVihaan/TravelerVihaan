@@ -1,4 +1,4 @@
-## Vihaan
+## Dreamwaler Vihaan
 ## Junior Software Engineer
 
 <a href="https://www.linkedin.com/in/lukaszbiel/"><img src="/img/linkedin.svg" height="90"></a>  <a href="https://stackoverflow.com/users/8115355/travelervihaan/"><img src="/img/stackoverflow.png" height="90"></a>
