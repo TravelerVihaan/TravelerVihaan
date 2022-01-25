@@ -1,7 +1,7 @@
 ## Vihaan
 ## Junior Software Engineer
 
-I am a ```Junior Software Engineer```, coding in the ```Java``` language. Professionally, I ```develop plugins``` for current top ```IDEs``` (for ```Java, C/C++, C#```) and tools to support and improve quality of the ```code testing process```. Outside of work I try to deepen my knowledge of ```web programming```, general ```software engineering``` and good ```code writing practices```.
+I am a ```Junior Software Engineer```, coding in the ```Java``` language. Professionally, I ```develop plugins``` for current top ```IDEs``` (for ```Java, C/C++, C#```) and tools to support and improve quality of the ```code testing process```. Outside of work I try to deepen my knowledge of ```web programming```, general ```software engineering``` and good ```code writing practices```. Besides programming, I like to play video games and I'm interested in reggae/dub music. In addition, I am hooked on the athletic lifestyle and bodybuilding.
 
 <a href="https://www.linkedin.com/in/lukaszbiel/"><img src="/img/linkedin.svg" height="90"></a>  <a href="https://stackoverflow.com/users/8115355/travelervihaan/"><img src="/img/stackoverflow.png" height="90"></a>
 
