@@ -11,4 +11,4 @@ Update in progress...
 <img src="/img/java.svg" height="70">  <img src="/img/spring.svg" height="70">  <img src="/img/intellij.webp" height="70">  <img src="/img/eclipse.svg" height="70">  <img src="/img/git.svg" height="70">  <img src="/img/windows.svg" height="70">
 
 #### Minor skills:
-<img src="/img/go.png" height="50">  <img src="/img/mysql.svg" height="50">  <img src="/img/mongodb.svg" height="50"> <img src="/img/html5.svg" height="50">  <img src="/img/docker.svg" height="50">  <img src="/img/visualstudio.svg" height="50">  <img src="/img/linux.svg" height="50">
+<img src="/img/go.svg" height="50">  <img src="/img/mysql.svg" height="50">  <img src="/img/mongodb.svg" height="50"> <img src="/img/html5.svg" height="50">  <img src="/img/docker.svg" height="50">  <img src="/img/visualstudio.svg" height="50">  <img src="/img/linux.svg" height="50">
