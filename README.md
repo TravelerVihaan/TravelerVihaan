@@ -10,3 +10,7 @@
 
 #### Minor skills:
 <img src="/img/go.svg" height="50">  <img src="/img/docker.svg" height="50">  <img src="/img/kubernetes.svg" height="50">  <img src="/img/kafka.svg" height="50">  <img src="/img/mysql.svg" height="50">  <img src="/img/mongodb.svg" height="50">  <img src="/img/linux.svg" height="50">  <img src="/img/visualstudio.svg" height="50">
+
+#### Gamercards:
+<img src="https://card.exophase.com/2/0/274167.png?1727980286"><br>
+<img src="https://card.psnprofiles.com/1/BLSN1312.png">
